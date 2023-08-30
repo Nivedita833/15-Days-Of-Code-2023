@@ -4,3 +4,6 @@
 -Quetion 1 link : https://pastebin.com/ZDDRmSkM <br>
 -Question 2 link: https://pastebin.com/sR50RkaT <br>
 Watched STL lecture of Vector. <br>
+## DAY-02
+Watched lecture of Binary Search and Linear Search
+Practice Question link: https://pastebin.com/FuE1MyBX
