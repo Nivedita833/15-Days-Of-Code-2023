@@ -9,5 +9,5 @@ Watched STL lecture of Vector. <br>
 Watched lecture of Binary Search and Linear Search <br>
 Practice Question link: https://pastebin.com/FuE1MyBX
 ## DAY-03
-Practice Question- https://codeforces.com/problemset/problem/1850/A
+Practice Question- https://codeforces.com/problemset/problem/1850/A <br>
 Practice Question- https://pastebin.com/1q3q2Ca8
