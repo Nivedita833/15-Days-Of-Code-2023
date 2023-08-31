@@ -8,3 +8,6 @@ Watched STL lecture of Vector. <br>
 ## DAY-02
 Watched lecture of Binary Search and Linear Search <br>
 Practice Question link: https://pastebin.com/FuE1MyBX
+## DAY-03
+Practice Question- https://codeforces.com/problemset/problem/1850/A
+Practice Question- https://pastebin.com/1q3q2Ca8
