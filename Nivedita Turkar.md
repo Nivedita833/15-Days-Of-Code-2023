@@ -26,5 +26,5 @@ Watched basic strings lecture
 ## DAY-05
 September 3, 2023
 
-Practice Question- https://pastebin.com/00qZ88zs (No. of Vowels and Consonents) <br>
+Practice Question- https://pastebin.com/00qZ88zs (No. of Vowels and Consonants) <br>
 Practice Question- https://pastebin.com/4Fc0c7ge (Matrix Multiplication)
