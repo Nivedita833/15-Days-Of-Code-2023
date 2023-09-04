@@ -28,3 +28,10 @@ September 3, 2023
 
 Practice Question- https://pastebin.com/00qZ88zs (No. of Vowels and Consonants) <br>
 Practice Question- https://pastebin.com/4Fc0c7ge (Matrix Multiplication)
+
+## DAY-06
+September 4, 2023
+ 
+Practice Question- https://pastebin.com/bsy1JPjV (fibonacci series upto n) <br>
+Practice Question- https://pastebin.com/G863sPPW (duplicate in array) 
+
