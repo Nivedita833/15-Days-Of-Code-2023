@@ -35,3 +35,6 @@ September 4, 2023
 Practice Question- https://pastebin.com/bsy1JPjV (fibonacci series upto n) <br>
 Practice Question- https://pastebin.com/G863sPPW (duplicate in array) 
 
+## DAY-07
+September 5, 2003
+Practice Question- https://pastebin.com/VJDGyzzb (peak index in mountain array)
