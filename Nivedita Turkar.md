@@ -39,3 +39,9 @@ Practice Question- https://pastebin.com/G863sPPW (duplicate in array)
 September 5, 2003
 
 Practice Question- https://pastebin.com/VJDGyzzb (peak index in mountain array)
+
+## DAY-08
+September 7, 2023
+
+Practice Question- https://pastebin.com/iHjL2re0 (Pivot element in an array) <br>
+Practice Question- https://pastebin.com/fYGt15N5 (Search in a Rotated sorted array)
