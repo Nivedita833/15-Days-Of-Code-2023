@@ -45,3 +45,9 @@ September 7, 2023
 
 Practice Question- https://pastebin.com/iHjL2re0 (Pivot element in an array) <br>
 Practice Question- https://pastebin.com/fYGt15N5 (Search in a Rotated sorted array)
+
+## DAY-09
+September 8, 2023
+
+Watched Sorting Concept in Arrays lecture <br>
+Practice Question- https://pastebin.com/05eppAJ8 (Sorting of Array) <br>
