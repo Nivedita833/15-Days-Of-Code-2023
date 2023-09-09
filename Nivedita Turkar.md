@@ -51,3 +51,9 @@ September 8, 2023
 
 Watched Sorting Concept in Arrays lecture <br>
 Practice Question- https://pastebin.com/05eppAJ8 (Sorting of Array) <br>
+
+## DAY-10
+September 9, 2023
+Practice Question- https://pastebin.com/8a2Ygvbh (Square Root of number by binary search)<br>
+Practice Question- https://pastebin.com/7hXNGQ9P (Floating point of square root)
+Practice Question- 
