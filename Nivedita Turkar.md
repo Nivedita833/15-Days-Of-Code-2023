@@ -58,3 +58,8 @@ September 9, 2023
 Practice Question- https://pastebin.com/8a2Ygvbh (Square Root of number by binary search)<br>
 Practice Question- https://pastebin.com/7hXNGQ9P (Floating point of square root)
 
+## DAY-11
+September 10, 2023
+
+Practice Question- https://pastebin.com/CWQAcd8j (Average of elements in arrays) <br>
+Practice Question- https://pastebin.com/NVyNpSCP (Reverse Elements in array) 
