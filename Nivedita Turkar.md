@@ -63,3 +63,9 @@ September 10, 2023
 
 Practice Question- https://pastebin.com/CWQAcd8j (Average of elements in arrays) <br>
 Practice Question- https://pastebin.com/NVyNpSCP (Reverse Elements in array) 
+
+## DAY-12
+September 11, 2023
+
+watched lecture of bubble sort <br>
+Practice Question- https://pastebin.com/r4gk3wCy (bubble sort concept)
