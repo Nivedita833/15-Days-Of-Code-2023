@@ -25,6 +25,7 @@ Watched basic strings lecture
 
 ## DAY-05
 September 2, 2023
+
 Question Link- https://pastebin.com/ccJ1HkVq (perfect no. between 1 to 1000) <br>
 Question Link- https://pastebin.com/t8ddpgt0 (making func for calculating power of exponent) <br>
 Question Link- https://pastebin.com/kmEepGj9 (Reverse digit of a Number) 
