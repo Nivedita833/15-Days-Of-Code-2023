@@ -50,6 +50,8 @@ Practice Question- https://pastebin.com/VJDGyzzb (peak index in mountain array)
 
 ## DAY-09
 September 6, 2023
+
+
 Watched Lectures on Database Management System + SQL Queries+ STL video
 
 
