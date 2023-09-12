@@ -89,5 +89,6 @@ Practice Question- https://pastebin.com/r4gk3wCy (bubble sort concept)
 September 12, 2023
 
 Question Link- https://pastebin.com/W8JxjcAE (Book Allocation using binary Search) <br>
+Question Link- https://pastebin.com/jBchm0Ei 19minimum time to paint all N boards in continuous order) <br>
 
 
